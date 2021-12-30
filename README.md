@@ -13,4 +13,4 @@ When I'm not hanging out with my family I'm trying to [write and record](https:/
 - 📫 Email me at [wojtekidd@wojtekidd.org](mailto:wojtekidd@wojtekidd.org)
 - 🙂 Pronouns: he/him
 
-[![wojtekidd's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekidd)](https://github.com/wojtekidd/github-readme-stats)
+[![wojtekidd's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekidd&theme=radical)](https://github.com/wojtekidd/github-readme-stats)
