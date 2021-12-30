@@ -1,5 +1,5 @@
 ## Hi (ノ^∇^), I'm Wojtek (pronounced vɔɪtek or `voitech`)
-[![Gmail Badge](https://img.shields.io/badge/-wojciech.cichon@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wojciech.cichon@gmail.com)](mailto:wojciech.cichon@gmail.com) 
+[![Email Badge](https://img.shields.io/badge/-wojtekidd@wojtekidd.org-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wojtekidd@wojtekidd.org)](mailto:wojtekidd@wojtekidd.org) 
 [![Linkedin Badge](https://img.shields.io/badge/-wojtekcichon-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wojtekcichon/)](https://www.linkedin.com/in/wojtekcichon/) [![Github Badge](https://img.shields.io/badge/-wojtekidd-grey?style=flat&logo=github&logoColor=white&link=https://github.com/wojtekidd/)](https://www.github.com/wojtekidd/) [![Twitter Badge](https://img.shields.io/badge/-wojtekidd-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/wojtekidd/)](https://www.twitter.com/wojtekidd/) [![Blog Badge](https://img.shields.io/badge/blog-web-blue?style=flat&link=https://wojtekidd.org/6mlndiy//)](https://wojtekidd.org/6mlndiy//) <p align='left'>
 
 During the day I work with software developers and product people, taking care of products, communication, clients, and communities. 
