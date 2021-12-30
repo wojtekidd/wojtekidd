@@ -10,5 +10,7 @@ I was a part of such companies as Mudita, Sphere Engine, Semaphore CI, CKSource 
 
 When I'm not hanging out with my family I'm trying to [write and record](https://wojtekidd.org) some rap/spoken word pieces.
 
-- 📫 Email me at: [wojtekidd@wojtekidd.org](mailto:wojtekidd@wojtekidd.org)
-- 😄 Pronouns: he/him
+- 📫 Email me at [wojtekidd@wojtekidd.org](mailto:wojtekidd@wojtekidd.org)
+- 🙂 Pronouns: he/him
+
+[![wojtekidd's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekidd)](https://github.com/wojtekidd/github-readme-stats)
