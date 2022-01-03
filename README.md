@@ -10,9 +10,7 @@ I was a part of such companies as Mudita, Sphere Engine, Semaphore CI, CKSource 
 
 When I'm not hanging out with my family I'm trying to [write and record](https://wojtekidd.org) some rap/spoken word pieces.</p>
 
-### Some of my Github Stats
-
 <p align=left> <img src=https://komarev.com/ghpvc/?username=wojtekidd alt=wojtekidd /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=wojtekidd&show_icons=true&include_all_commits=true)](https://github.com/wojtekidd/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekidd&show_icons=true&include_all_commits=true)](https://github.com/wojtekidd/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekidd&layout=compact)](https://github.com/wojtekidd/github-readme-stats)
