@@ -9,6 +9,3 @@ Currently at [Akuity](https://akuity.io).
 I was a part of such companies as Mudita, Sphere Engine, Semaphore CI, CKSource (makers of CKEditor) and the British Council.
 
 When I'm not hanging out with my family I'm trying to [write and record](https://wojtekidd.org) some rap/spoken word pieces.</p>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekidd&show_icons=true&include_all_commits=true)](https://github.com/wojtekidd/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekidd&layout=compact)](https://github.com/wojtekidd/github-readme-stats)
