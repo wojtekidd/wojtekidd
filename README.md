@@ -9,4 +9,4 @@ Currently at [Akuity](https://akuity.io).
 
 I was a part of such companies as Mudita, Sphere Engine, Semaphore CI, CKSource (makers of CKEditor) and the British Council.
 
-When I'm not hanging out with my family I'm trying to [write and record](https://wojtekidd.org) some rap/spoken word pieces.</p>
+When I'm not hanging out with my kids I'm trying to [write and record](https://wojtekidd.org) some rap/spoken word pieces.</p>
