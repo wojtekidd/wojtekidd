@@ -5,8 +5,8 @@
 
 During the day I work with software developers and product people, taking care of products, communication, clients, and communities. 
 
-Currently at [Akuity](https://akuity.io). 
+Currently at [Tiugo Technologies](https://www.tiugotech.com/). 
 
-I was a part of such companies as Mudita, Sphere Engine, Semaphore CI, CKSource (makers of CKEditor) and the British Council.
+I was a part of such companies as Akuity (creators of the Argo Project), Mudita, Sphere Engine, Semaphore CI, CKSource (creators of CKEditor) and the British Council.
 
 When I'm not hanging out with my kids I'm trying to [write and record](https://wojtekidd.org) some rap/spoken word pieces.</p>
